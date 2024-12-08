@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: 0BSD
 
-const doh = 'https://dns.nextdns.io/2e2e3c/CF'
-const dohjson = 'https://dns.nextdns.io/2e2e3c/CF'
+const doh = 'https://dns.nextdns.io/2e2e3c'
+const dohjson = 'https://dns.nextdns.io/2e2e3c'
 const contype = 'application/dns-message'
 const jstontype = 'application/dns-json'
 const path = '/'; // default allow all, must start with '/' if specified, eg. "/dns-query"
